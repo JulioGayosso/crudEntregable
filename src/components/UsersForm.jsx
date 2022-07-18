@@ -94,7 +94,7 @@ const reset = ()  => {
    return (
 
     /*  creo los inputs del formulario para luego guardar lo que el usuario ingrese */
-        <form onSubmit={submit}>
+        <form className='form-style' onSubmit={submit}>
            
            <h1>New User</h1>
 
