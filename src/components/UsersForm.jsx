@@ -98,7 +98,7 @@ const reset = ()  => {
            
            <h1>New User</h1>
 
-           <div className='inputut-container'>
+           <div className='input-container'>
              <label htmlFor="first_name" >Name</label>
              <input 
              placeholder='First Name'
@@ -110,7 +110,7 @@ const reset = ()  => {
              />
            </div>
 
-           <div className='inputut-container'>
+           <div className='input-container'>
              <label htmlFor="last_name">Apellido</label>
              <input 
              placeholder='Last Name'
@@ -121,7 +121,7 @@ const reset = ()  => {
              />
            </div>
             
-           <div className='inputut-container'>
+           <div className='input-container'>
              <label htmlFor="email">Email</label>
              <input 
              placeholder='Email'
@@ -132,7 +132,7 @@ const reset = ()  => {
              />
            </div>
 
-           <div className='inputut-container'>
+           <div className='input-container'>
              <label htmlFor="password">Contraseña</label>
              <input 
              placeholder='Password'
@@ -143,7 +143,7 @@ const reset = ()  => {
              />
            </div>
 
-           <div className='inputut-container'>
+           <div className='input-container'>
              <label htmlFor="birthday">Fecha de Nacimiento</label>
              <input 
              
