@@ -7,7 +7,7 @@ const UsersList = ({users,selectUsers,deleteUsers }) => {
        <h1>Users List</h1>
        {
 
-        /* mapeamos el arreglo de usuarios para acceder a sus propiedades y listarlas*/
+        /* mapeamos el arreglo de usuarios para acceder a las propiedades y listarlas*/
          users.map(user =>(
           <li key={user.id}>
 
